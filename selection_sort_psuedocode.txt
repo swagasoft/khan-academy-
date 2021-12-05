@@ -1,0 +1,17 @@
+
+1.Find the smallest card. Swap it with the first card.
+2.Find the second-smallest card. Swap it with the second card.
+3.Find the third-smallest card. Swap it with the third card.
+4.Repeat finding the next-smallest card, and swapping it into the correct position until the array is sorted.
+
+
+
+
+Finding the index of the minimum element in a subarray
+One of the steps in selection sort is to find the next-smallest 
+card to put into its correct location. For example, if the array initially has values [13, 19, 18, 4, 10],
+ we first need to find the index of the smallest value in the array. Since 4 is the smallest value, 
+ the index of the smallest value is 3.
+
+ Selection sort would swap the value at index 3 with the value at index 0, giving [4, 19, 18, 13, 10]. 
+ Now we need to find the index of the second-smallest value to swap into index 1.

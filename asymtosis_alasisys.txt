@@ -1,0 +1,26 @@
+
+
+
+
+
+1 / 4
+A function has "constant" growth if its output does not change based on the input, the nnn. 
+The easy way to identify constant functions is find those that have no nnn in their expression anywhere, or have n^0n 
+0n, start superscript, 0, end superscript. In this case, 111 and 100010001000 are constant.
+
+2 / 4
+A function has "linear" growth if its output increases linearly with the size of its input.
+ The way to identify linear functions is find those where nnn is never raised to a power (although n^1n 
+1n, start superscript, 1, end superscriptis OK) or used as a power. In this case, 3n3n3, 
+n and (3/2)n(3/2)nleft parenthesis, 3, slash, 2, right parenthesis, n are linear.
+
+3 / 4
+A function has "polynomial" growth if its output increases according to a polynomial expression. 
+The way to identify polynomial functions is to find those where n is raised to some constant power. In this case, 2n^32n 
+3 2, n, cubed and 3n^23n 2 3, n, squared are polynomial.
+Hint #44 / 4
+A function has "exponential" growth if its output increases according to an exponential expression. The way to identify exponential functions is to find those where a constant is raised to some expression involving nnn. In this case, 2^n2 
+n
+ 2, start superscript, n, end superscript and (3/2)^n(3/2) 
+n
+ left parenthesis, 3, slash, 2, right parenthesis, start superscript, n, end superscript are exponential.

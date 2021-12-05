@@ -1,0 +1,9 @@
+
+There are many different ways to sort. As selection sort runs, the subarray at the beginning of 
+the array is sorted, but the subarray at the end is not. Selection sort scans the unsorted subarray
+ for the next element to include in the sorted subarray.
+
+
+ This is the idea behind insertion sort. Loop over positions in the array, starting with index 1.
+  Each new position is like the new card handed to you by the dealer, and you need to insert it into 
+  the correct place in the sorted subarray to the left of that position.

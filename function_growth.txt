@@ -1,0 +1,14 @@
+
+We have several different types of functions here, so we start by thinking about the general properties of those function types and how their rate of growth compares. Here's a reminder of different function types shown here, in order of their growth:
+1.Constant functions
+2.Logarithmic functions
+3.Linear functions
+4.Linearithmic functions
+5.Polynomial functions
+6.Exponential functions
+
+
+Which type is each of the presented options?
+1. Constant functions:
+64
+2. Logarithmic functions 
